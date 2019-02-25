@@ -1,0 +1,110 @@
+body {
+	margin: 0px;
+}
+
+
+/*
+div:hover{
+	-webkit-transform: rotate(20deg);
+}
+*/
+
+#content {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 1000px;
+	height: 600px;
+	margin: -300px 0px 0px -500px;
+	background-color: #ccc;
+	text-align: center;
+	padding: 5px;
+}
+
+#content img {
+	border-radius: 10px;
+	width: 180px;
+	border: 2px outset #aaa;
+	margin: 3px;
+	padding: 3px;
+	background-color: #fff;
+	box-shadow: 5px 5px 5px 5px rgba(50, 50, 50, .3);
+	transition: 0.5s ease-in-out ;
+}
+#content img:hover{
+	transform: scale(1.3);
+}
+/*#content img:hover{
+	transform: rotate(0deg);
+}*/
+#jpg1 {
+	-webkit-transform: rotate(-20deg);
+}
+
+#jpg2 {
+	-webkit-transform: rotate(10deg);
+}
+
+#jpg3 {
+	-webkit-transform: rotate(45deg);
+}
+
+#jpg4 {
+	-webkit-transform: rotate(8deg);
+}
+
+#jpg5 {
+	-webkit-transform: rotate(-10deg);
+}
+
+#jpg6 {
+	-webkit-transform: rotate(45deg);
+}
+
+#jpg7 {
+	-webkit-transform: rotate(-5deg);
+}
+
+#jpg8 {
+	-webkit-transform: rotate(8deg);
+}
+
+#jpg9 {
+	-webkit-transform: rotate(-12deg);
+}
+/*#jpg1:hover {
+	-webkit-transform: rotate(0deg);
+}
+
+#jpg2:hover {
+	-webkit-transform: rotate(0deg);
+}
+
+#jpg3:hover {
+	-webkit-transform: rotate(0deg);
+	transform: scale(2.0);
+}
+
+#jpg4:hover {
+	-webkit-transform: rotate(0deg);
+}
+
+#jpg5:hover {
+	-webkit-transform: rotate(0deg);
+}
+
+#jpg6:hover {
+	-webkit-transform: rotate(0deg);
+}
+
+#jpg7:hover {
+	-webkit-transform: rotate(0deg);
+}
+
+#jpg8:hover {
+	-webkit-transform: rotate(0deg);
+}
+
+#jpg9:hover {
+	-webkit-transform: rotate(0deg);
+}*/
